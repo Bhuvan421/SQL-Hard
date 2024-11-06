@@ -25,9 +25,3 @@ Optimize for Performance: Learn techniques to improve query efficiency, includin
 Prepare for Interviews: Get ready for interviews with companies known for their rigorous data interview process.
 
 
-- ![Meta](logos/meta.png) **Meta**
-- ![Microsoft](logos/microsoft.png) **Microsoft**
-- ![Google](logos/google.png) **Google**
-- ![Amazon](logos/amazon.png) **Amazon**
-- ![Netflix](logos/netflix.png) **Netflix**
-

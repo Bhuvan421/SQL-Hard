@@ -26,3 +26,4 @@ Prepare for Interviews: Get ready for interviews with companies known for their 
 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Nvidia_logo.svg" width="15" height="15"> NVIDIA
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Salesforce.com_logo.svg" width="15" height="15"> Salesforce

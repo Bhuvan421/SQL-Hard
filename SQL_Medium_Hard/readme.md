@@ -14,6 +14,7 @@
 --> having  
 --> select  
   * Aggregate functions are calculated first    
-  * Window functions are applied after aggregation but before ORDER BY or LIMIT  
+  * Window functions are applied after aggregation but before ORDER BY or LIMIT
+
 --> order by  
 --> limit/offset  

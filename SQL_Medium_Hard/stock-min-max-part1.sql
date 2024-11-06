@@ -1,8 +1,8 @@
 ## Question: 
-  ### Bloomberg -> https://datalemur.com/questions/sql-bloomberg-stock-min-max-1
+  ## Bloomberg -> https://datalemur.com/questions/sql-bloomberg-stock-min-max-1
+
 
 ## Solution:
-
 
 with highestOpen as 
 (

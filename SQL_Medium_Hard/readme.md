@@ -1,1 +1,1 @@
-### These are all medium-hard problems  
+### Medium-hard problems  

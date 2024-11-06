@@ -18,9 +18,9 @@ The problems are inspired by interview questions from renowned companies, includ
 ### 📂 Repository Structure
 Each folder contains:
 
--> Problem Statement: A Link to the question will be provided.
--> Solution Script: An optimized SQL query tackling the problem. More than one solution can sometimes be provided.
--> Explanation: A breakdown of the logic and steps taken to arrive at the solution.
+-> Problem Statement: A Link to the question will be provided.  
+-> Solution Script: An optimized SQL query tackling the problem. More than one solution can sometimes be provided.  
+-> Explanation: A breakdown of the logic and steps taken to arrive at the solution.  
 
 ### 🎯 Objectives
 Practice Advanced SQL: Strengthen skills in joins, window functions, subqueries, and set operations.

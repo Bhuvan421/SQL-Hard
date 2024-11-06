@@ -23,8 +23,8 @@ Each folder contains:
 -> Explanation: A breakdown of the logic and steps taken to arrive at the solution.  
 
 ### 🎯 Objectives
-Practice Advanced SQL: Strengthen skills in joins, window functions, subqueries, and set operations.
-Optimize for Performance: Learn techniques to improve query efficiency, including indexing strategies and execution plan analysis.
-Prepare for Interviews: Get ready for interviews with companies known for their rigorous data interview process.
+--> Practice Advanced SQL: Strengthen skills in joins, window functions, subqueries, and set operations.  
+--> Optimize for Performance: Learn techniques to improve query efficiency, including indexing strategies and execution plan analysis.  
+--> Prepare for Interviews: Get ready for interviews with companies known for their rigorous data interview process.  
 
 

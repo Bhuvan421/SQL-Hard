@@ -8,12 +8,12 @@ This repository contains SQL solutions to hard-level questions that are frequent
 The problems are inspired by interview questions from renowned companies, including:
 
 * `Tech Giants:` Meta, Microsoft, Google, Amazon, Netflix, Tesla, Apple, NVIDIA, Oracle, IBM, Samsung, Intel, Cisco, Adobe, Salesforce, SAP
-* Finance & Fintech: JP Morgan Chase, Robinhood, Visa, PayPal, Stripe, Goldman Sachs, Morgan Stanley, American Express, Square, Mastercard, Capital One
-* Retail & E-commerce: Walmart, DoorDash, Wayfair, Etsy, eBay, CVS Health, Target, Best Buy, Home Depot, Costco, Alibaba, Zomato, Flipkart, Rakuten
-* Social Media & Streaming: Twitter (X), Snapchat, Spotify, TikTok, Pinterest, Facebook, Instagram, YouTube, LinkedIn, Reddit, Twitch, Hulu, Disney+
-* Consulting & Enterprise: McKinsey & Company, Accenture, Salesforce, Bloomberg, Deloitte, PwC, Ernst & Young (EY), KPMG, Boston Consulting Group (BCG), Bain & Company
-* Others: Uber, Airbnb, New York Times, Snowflake, UnitedHealth Group, LinkedIn, Adobe, Yelp, Lyft, Slack, Dropbox, Shopify, Palantir, Zoom, Atlassian, ServiceNow, Splunk, Workday, DocuSign, Okta, GitHub, Asana, MongoDB, Datadog, Elastic, Twilio, Cloudflare
-* Big Data & Analytics: Snowflake, Databricks, Confluent, Cloudera, Hortonworks, MapR, Teradata, Informatica, Alteryx, Tableau, Qlik, MicroStrategy, Looker, Domo, Sisense, ThoughtSpot, TIBCO
+* `Finance & Fintech:` JP Morgan Chase, Robinhood, Visa, PayPal, Stripe, Goldman Sachs, Morgan Stanley, American Express, Square, Mastercard, Capital One
+* `Retail & E-commerce:` Walmart, DoorDash, Wayfair, Etsy, eBay, CVS Health, Target, Best Buy, Home Depot, Costco, Alibaba, Zomato, Flipkart, Rakuten
+* `Social Media & Streaming:` Twitter (X), Snapchat, Spotify, TikTok, Pinterest, Facebook, Instagram, YouTube, LinkedIn, Reddit, Twitch, Hulu, Disney+
+* `Consulting & Enterprise:` McKinsey & Company, Accenture, Salesforce, Bloomberg, Deloitte, PwC, Ernst & Young (EY), KPMG, Boston Consulting Group (BCG), Bain & Company
+* `Others:` Uber, Airbnb, New York Times, Snowflake, UnitedHealth Group, LinkedIn, Adobe, Yelp, Lyft, Slack, Dropbox, Shopify, Palantir, Zoom, Atlassian, ServiceNow, Splunk, Workday, DocuSign, Okta, GitHub, Asana, MongoDB, Datadog, Elastic, Twilio, Cloudflare
+* `Big Data & Analytics:` Snowflake, Databricks, Confluent, Cloudera, Hortonworks, MapR, Teradata, Informatica, Alteryx, Tableau, Qlik, MicroStrategy, Looker, Domo, Sisense, ThoughtSpot, TIBCO
 
 ### 📂 Repository Structure
 Each folder contains:

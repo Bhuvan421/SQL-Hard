@@ -1,7 +1,7 @@
 # SQL-Hard
 Welcome to SQL-Hard, a collection of solutions to some of the most challenging SQL problems encountered in interviews with top-tier companies. This repository is designed to help those preparing for data-intensive roles, with a focus on complex SQL scenarios and advanced problem-solving techniques.
 
-🌟 Overview
+##🌟 Overview
 This repository contains SQL solutions to hard-level questions that are frequently asked by leading companies in the tech and finance sectors. Each problem aims to build skills in data manipulation, optimization, and advanced query writing to prepare you for real-world data challenges.
 
 💼 Companies Covered

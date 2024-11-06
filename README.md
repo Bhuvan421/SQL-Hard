@@ -7,7 +7,7 @@ This repository contains SQL solutions to hard-level questions that are frequent
 ### 💼 Companies Covered
 The problems are inspired by interview questions from renowned companies, including:
 
-* Tech Giants: Meta, Microsoft, Google, Amazon, Netflix, Tesla, Apple, NVIDIA, Oracle, IBM, Samsung, Intel, Cisco, Adobe, Salesforce, SAP
+* `Tech Giants:` Meta, Microsoft, Google, Amazon, Netflix, Tesla, Apple, NVIDIA, Oracle, IBM, Samsung, Intel, Cisco, Adobe, Salesforce, SAP
 * Finance & Fintech: JP Morgan Chase, Robinhood, Visa, PayPal, Stripe, Goldman Sachs, Morgan Stanley, American Express, Square, Mastercard, Capital One
 * Retail & E-commerce: Walmart, DoorDash, Wayfair, Etsy, eBay, CVS Health, Target, Best Buy, Home Depot, Costco, Alibaba, Zomato, Flipkart, Rakuten
 * Social Media & Streaming: Twitter (X), Snapchat, Spotify, TikTok, Pinterest, Facebook, Instagram, YouTube, LinkedIn, Reddit, Twitch, Hulu, Disney+

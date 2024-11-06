@@ -18,3 +18,5 @@
 
 --> order by  
 --> limit/offset  
+
+  ![Bloomberg](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1)

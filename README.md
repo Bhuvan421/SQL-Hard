@@ -23,3 +23,6 @@ Explanation: A breakdown of the logic and steps taken to arrive at the solution.
 Practice Advanced SQL: Strengthen skills in joins, window functions, subqueries, and set operations.
 Optimize for Performance: Learn techniques to improve query efficiency, including indexing strategies and execution plan analysis.
 Prepare for Interviews: Get ready for interviews with companies known for their rigorous data interview process.
+
+
+<img src="https://upload.wikimedia.org/wikipedia/en/2/21/Nvidia_logo.svg" width="15" height="15"> NVIDIA

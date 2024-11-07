@@ -29,4 +29,4 @@ Each folder contains:
 
 
 ## Optimizations:
---> ![Optimization techniques and best  practices] https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries#sql10
+--> [Optimization techniques and best  practices] (https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries#sql10)

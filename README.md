@@ -28,3 +28,5 @@ Each folder contains:
 --> Prepare for Interviews: Get ready for interviews with companies known for their rigorous data interview process.  
 
 
+## Optimizations:
+--> ![Optimization techniques and best  practices] https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries#sql10

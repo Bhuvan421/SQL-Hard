@@ -13,6 +13,6 @@
                      example: look at the "server-utilization-time" SQL question in the hard folder.  
   ** `justify_days` - get the difference of the number of months in the interval and also give excess days within it.  
   ** `justify_interval` - Combination of justify_hours and justify_days which gives the difference in months, days, and hours within the interval.  
-* Similar date functions include `extract`/`date_part`, `age`, etc.
+* Similar date functions include `extract`/`date_part`, `to_char`, `age`, etc.
 
 * `epoch` - to retrieve time difference in seconds by using extract/date_part. Look at "repeated-payments" SQL question in the hard folder.
